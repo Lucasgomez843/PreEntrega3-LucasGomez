@@ -1,0 +1,173 @@
+[
+    {
+        "id": "teclado-01",
+        "titulo": "Teclado 01",
+        "imagen": "./img/teclados/teclado07.jpg",
+        "categoria": {
+            "nombre": "Teclado",
+            "id": "Teclados"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "teclado-02",
+        "titulo": "Teclado 02",
+        "imagen": "./img/teclados/teclado06.jpg",
+        "categoria": {
+            "nombre": "Teclado",
+            "id": "Teclados"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "teclado-03",
+        "titulo": "Teclado 03",
+        "imagen": "./img/teclados/teclado08.jpg",
+        "categoria": {
+            "nombre": "Teclado",
+            "id": "Teclados"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "teclado-4",
+        "titulo": "Teclado 04",
+        "imagen": "./img/teclados/teclado09.jpg",
+        "categoria": {
+            "nombre": "Teclado",
+            "id": "Teclado"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "teclado-05",
+        "titulo": "Teclado 05",
+        "imagen": "./img/teclados/teclado11.jpg",
+        "categoria": {
+            "nombre": "Teclado",
+            "id": "Teclados"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "mouse-01",
+        "titulo": "Mouse 01",
+        "imagen": "./img/mouse/mouse01.jpg",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "mouse-03",
+        "titulo": "Mouse 03",
+        "imagen": "./img/mouse/mouse04.jpg",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "mouse-04",
+        "titulo": "Mouse 04",
+        "imagen": "./img/mouse/mouse05.jpg",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "mouse-05",
+        "titulo": "Mouse 05",
+        "imagen": "./img/mouse/mouse06.jpg",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 4000
+    },
+    {
+       
+        "id": "mouse-06",
+        "titulo": "Mouse 06",
+        "imagen": "./img/mouse/mouse07.jpg",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "mouse-07",
+        "titulo": "Mouse 07",
+        "imagen": "./img/mouse/mouse10.jpg",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "mouse-08",
+        "titulo": "Mouse 08",
+        "imagen": "./img/mouse/mouse12.jpg",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "auriculares-01",
+        "titulo": "Auriculares 01",
+        "imagen": "./img/auriculares/auriculares02.jpg",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "auriculares-02",
+        "titulo": "Auriculares 02",
+        "imagen": "./img/auriculares/auriculares03.jpg",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "auriculares-03",
+        "titulo": "Auriculares 03",
+        "imagen": "./img/auriculares/auriculares04.jpg",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "auriculares-04",
+        "titulo": "Auriculares 04",
+        "imagen": "./img/auriculares/auriculares06.jpg",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "auriculares-05",
+        "titulo": "Auriculares 05",
+        "imagen": "./img/auriculares/auriculares08.jpg",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 7000
+    }
+]
